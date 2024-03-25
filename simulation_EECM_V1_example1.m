@@ -17,7 +17,7 @@ cell_id_string = 'example1'; % used for display and labeling
 
 % environment
 T_amb = 25; % ambient temperature
-N_cycle = 50; % number of cycles to simulate
+N_cycle = 5; % number of cycles to simulate
 
 % cycling
 cycling = 'FCPD';
